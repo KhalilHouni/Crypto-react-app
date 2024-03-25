@@ -65,7 +65,7 @@ th {
 .stats .row {
     display: flex;
     justify-content: space-between;
-    border-bottom: 1px solid #808080;
+    border-bottom: 1px solid #bbbbbb;
     margin: .6rem 0;
     padding-bottom: .5rem;
 }
